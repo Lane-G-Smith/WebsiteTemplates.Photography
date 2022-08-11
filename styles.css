@@ -1,0 +1,7 @@
+.top_box {
+    display:flex
+}
+.description_box {
+    display: flex;
+    justify-content: center;
+}
